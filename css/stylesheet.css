@@ -4,3 +4,7 @@ h1 {
 body {
     background-color:blanchedalmond;
 }
+.headcourse {
+    font-family: sans-serif, Roboto;
+    text-align: center;
+}
