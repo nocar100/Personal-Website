@@ -12,3 +12,6 @@ body {
     border: 4px lightblue ridge;
     margin: 2px;
 }
+.schoolhead {
+    font-family: sans-serif, Roboto;
+}
