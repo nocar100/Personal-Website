@@ -11,6 +11,7 @@ body {
 .courselist {
     border: 4px lightblue ridge;
     margin: 2px;
+    width: 250px;
 }
 .schoolhead {
     font-family: sans-serif, Roboto;
