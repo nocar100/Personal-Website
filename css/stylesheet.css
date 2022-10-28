@@ -18,7 +18,9 @@ body {
     width: 250px;
 }
 .schoolhead {
+    color: #334259;
     font-family: sans-serif, Roboto;
+    font-size: 40px;
 }
 
 header{
@@ -79,6 +81,11 @@ h3{
 }
 
 .linkstwo{
+    display: inline flex;
+    column-gap: 15%;
+}
+
+.linksthree{
     display: inline flex;
     column-gap: 15%;
 }
