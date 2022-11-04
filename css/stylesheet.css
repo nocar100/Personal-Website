@@ -146,3 +146,9 @@ h3{
     border-bottom: black solid;
 }
 
+@media only screen and (max-device-width: 600px) {
+    
+    body{
+        font-size: 125%;
+    }
+}
