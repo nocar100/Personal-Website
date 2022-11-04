@@ -146,9 +146,21 @@ h3{
     border-bottom: black solid;
 }
 
-@media only screen and (max-device-width: 600px) {
+@media screen and (max-device-width: 600px) {
     
-    body{
+    .headcourse{
+        font-size: 130%;
+    }
+    .linkstwo{
+        font-size: 85%;
+    }
+    .line1{
+        font-size: 125%;
+    }
+    .line2{
+        font-size: 125%;
+    }
+    .line3{
         font-size: 125%;
     }
 }
