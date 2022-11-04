@@ -137,3 +137,12 @@ h3{
 .p3{
     text-align: right;
 }
+
+.line1{
+    border-bottom: black solid;
+}
+
+.line2{
+    border-bottom: black solid;
+}
+
