@@ -74,7 +74,19 @@ h3{
     background-color:#edddd0;
 }
 
+.one{
+    background-color: #a6cad4;
+    display: grid;
+    text-align: center;
+}
+
 .two{
+    background-color: #a6cad4;
+    display: grid;
+    text-align: center;
+}
+
+.three{
     background-color: #a6cad4;
     display: grid;
     text-align: center;
@@ -112,4 +124,16 @@ h3{
     text-align: center;
     grid-row: 2;
     grid-column: 2;   
+}
+
+.p1{
+    text-align: right;
+}
+
+.p2{
+    text-align: right;
+}
+
+.p3{
+    text-align: right;
 }
