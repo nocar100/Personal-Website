@@ -1,6 +1,6 @@
 const courseList = [{code: "ACIT 1620", name: "Web Fundamental technologies"},
 {code: "ACIT 1420", name: "Introduction to System Administration"},
-{code: "ACIT 1630", name: "Database Systems"},
+{code: "ACIT 1630", name: "Database Systems"}
 ]
 
 let userInput = prompt('Enter four digit BCIT course:')
